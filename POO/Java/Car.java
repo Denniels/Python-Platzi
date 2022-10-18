@@ -5,6 +5,6 @@ class Car {
         Integer Passeger;
 
         void printDataCar(){
-                System.out.println('license: ' + 'Driver: ' + driver)
+                System.out.println('license: ' + license + 'Driver: ' + driver)
         }
 }

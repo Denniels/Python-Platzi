@@ -1,4 +1,4 @@
-Class Car {
+class Car {
         Integer id;
         String license;
         String drive;
